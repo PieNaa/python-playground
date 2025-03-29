@@ -4,7 +4,6 @@ Just using this space to learn and record my journey in Python — from basic st
 
 ## 📁 Folder structure
 
-```
 .
 ├── AAA
 │   ├── aaa
@@ -21,9 +20,4 @@ Just using this space to learn and record my journey in Python — from basic st
     ├── dda
     ├── ddb
     └── ddc
-```
 
-
---- * ~ 🥚 ~ 🍚 ~ 🧈 ~ 🍰 ~ 🔪 ~ 🔥 ~ 🥄 ~ 🥧🥧🥧🥧🥧 ~ 💻 ~ ✨ ~ 🍳 ~ 🧠 ~ 🔧 ~ 🔥 ~ 📚 ~ ☕ ~ * ---
-
-*Pie is on baking
