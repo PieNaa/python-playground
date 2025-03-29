@@ -4,8 +4,6 @@ Just using this space to learn and record my journey in Python — from basic st
 
 ## 📁 Folder structure
 
-## 📁 Folder structure (with placeholders)
-
 ```
 .
 ├── AAA
